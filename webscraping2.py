@@ -1,3 +1,5 @@
+#Obtendo o conteúdo HTML de um site
+
 from urllib.request import Request, urlopen
 from urllib.error import URLError, HTTPError
 
